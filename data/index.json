@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2026-09-21",
+    "symbols": [
+      {
+        "symbol": "AAPL",
+        "date": "2026-09-21",
+        "status": "no_expiries",
+        "rows": 0
+      },
+      {
+        "symbol": "GLD",
+        "date": "2026-09-21",
+        "status": "no_expiries",
+        "rows": 0
+      },
+      {
+        "symbol": "NVDA",
+        "date": "2026-09-21",
+        "status": "no_expiries",
+        "rows": 0
+      },
+      {
+        "symbol": "SPY",
+        "date": "2026-09-21",
+        "status": "no_expiries",
+        "rows": 0
+      },
+      {
+        "symbol": "TSLA",
+        "date": "2026-09-21",
+        "status": "no_expiries",
+        "rows": 0
+      }
+    ]
+  }
+]
