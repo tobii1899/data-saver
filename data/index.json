@@ -473,5 +473,50 @@
         "expiries": 8
       }
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "symbols": [
+      {
+        "symbol": "AAPL",
+        "date": "2026-10-08",
+        "status": "ok",
+        "rows": 715,
+        "spot": 336.67,
+        "expiries": 8
+      },
+      {
+        "symbol": "GLD",
+        "date": "2026-10-08",
+        "status": "ok",
+        "rows": 1298,
+        "spot": 375.88,
+        "expiries": 8
+      },
+      {
+        "symbol": "NVDA",
+        "date": "2026-10-08",
+        "status": "ok",
+        "rows": 804,
+        "spot": 237.47,
+        "expiries": 8
+      },
+      {
+        "symbol": "SPY",
+        "date": "2026-10-08",
+        "status": "ok",
+        "rows": 1914,
+        "spot": 777.22,
+        "expiries": 8
+      },
+      {
+        "symbol": "TSLA",
+        "date": "2026-10-08",
+        "status": "ok",
+        "rows": 1161,
+        "spot": 377.81,
+        "expiries": 8
+      }
+    ]
   }
 ]
